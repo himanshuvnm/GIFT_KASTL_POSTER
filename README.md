@@ -17,6 +17,9 @@ This repository contains a public research poster on graph foundation models for
 
 This poster presents a foundation-model approach for learning on discrete fracture network data using graph-based architectures. The work explores how large-scale graph learning can support scientific reasoning, surrogate modeling, and downstream prediction tasks in complex physical systems.
 
+## [Download Poster](https://github.com/himanshuvnm/GIFT_KASTL_POSTER/blob/main/GIFT-KASTL_SciFM_POSTER.pdf)
+
+
 ## Problem
 
 Modeling fracture networks is challenging due to:
