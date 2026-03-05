@@ -1,4 +1,4 @@
-# Poster: Graph Foundation Models for Fracture Network Learning
+# SciFM Poster: Graph Foundation Models for Fracture Network Learning
 
 This repository contains a public research poster on graph foundation models for scientific machine learning, with a focus on fracture network representation learning and the GIFT-KASTL (**Graph-In-Fracture-Transformer Kolmogorov-Arnold Superposition Theorem Layer**) framework.
 
