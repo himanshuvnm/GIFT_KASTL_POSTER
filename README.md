@@ -84,7 +84,7 @@ This material is shared for reviewers, collaborators, and researchers interested
 *Kolmogorov-Arnold Theorem*
 
 6. LECTURE DELIVERED BEFORE THE INTERNATIONAL CONGRESS OF MATHEMATICIANS AT PARIS IN 1900
-7. KAN: Kolmogorov-Arnold Networks
+7. [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 
 ## Author
 
