@@ -72,6 +72,12 @@ This material is shared for reviewers, collaborators, and researchers interested
 
 4. applied AI for structured scientific data
 
+## Related Projects
+
+• Mechanistic AI Interpretability  
+• Sparse Neural Network Learning  
+• Fourier Neural Operator experiments
+
 ## Recommended Readings
 *DFN*
 1. [Transient flow modeling in fractured media using graphs](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.052310)
