@@ -114,9 +114,6 @@ Potential application areas include
 
 ---
 
-
----
-
 # Author
 
 **Himanshu Singh**
