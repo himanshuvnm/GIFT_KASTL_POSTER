@@ -6,6 +6,36 @@ This repository contains a public research poster on graph foundation models for
 
 This poster presents a foundation-model approach for learning on discrete fracture network data using graph-based architectures. The work explores how large-scale graph learning can support scientific reasoning, surrogate modeling, and downstream prediction tasks in complex physical systems.
 
+## Problem
+
+Modeling fracture networks is challenging due to:
+
+• high-dimensional geometry  
+• complex connectivity structures  
+• large simulation costs  
+
+Traditional physics-based simulation approaches are computationally expensive.
+
+## Approach
+
+We explore **graph foundation models** that learn representations of fracture systems directly from graph-structured data. 
+
+Key components:
+
+• Graph representation of fracture networks  
+• Graph neural architectures for physical structure learning  
+• Scalable training pipelines for scientific ML  
+• Surrogate modeling for fracture system behavior
+
+Lastly, we introduce KASTL via this graph foundation model.
+
+## Applications
+
+• fracture propagation modeling  
+• subsurface simulation  
+• scientific surrogate modeling  
+• data-driven physical systems
+
 ### Graph Foundation Model Structure 
 
 <img width="2560" height="1440" alt="Screenshot 2026-03-02 at 3 13 07 PM" src="https://github.com/user-attachments/assets/ac1bcc42-cf5b-4442-b22b-7a29b90b84cc" />
