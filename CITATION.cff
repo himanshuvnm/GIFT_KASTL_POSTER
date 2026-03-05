@@ -1,6 +1,17 @@
-@software{singh_gift_kastl_2025,
-  author = {Singh, Himanshu},
-  title = {GIFT-KASTL: Graph Foundation Models for Fracture Network Learning},
-  year = {2025},
-  url = {https://github.com/himanshuvnm/GIFT_KASTL_POSTER}
-}
+cff-version: 1.2.0
+title: "GIFT-KASTL: Graph Foundation Models for Fracture Network Learning"
+message: "If you use this poster in your research, please cite it using the following metadata."
+type: dataset
+authors:
+  - family-names: Singh
+    given-names: Himanshu
+repository-code: "https://github.com/himanshuvnm/GIFT_KASTL_POSTER"
+url: "https://github.com/himanshuvnm/GIFT_KASTL_POSTER"
+date-released: 2025
+license: "MIT"
+keywords:
+  - scientific machine learning
+  - graph foundation models
+  - fracture networks
+  - graph neural networks
+  - surrogate modeling
