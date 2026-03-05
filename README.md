@@ -74,16 +74,16 @@ This material is shared for reviewers, collaborators, and researchers interested
 
 ## Recommended Readings
 *DFN*
-1. Transient flow modeling in fractured media using graphs
-2. Machine learning for graph-based representations of three-dimensional discrete fracture networks
+1. [Transient flow modeling in fractured media using graphs](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.102.052310)
+2. [Machine learning for graph-based representations of three-dimensional discrete fracture networks](https://link.springer.com/article/10.1007/s10596-018-9720-1)
 
 *For Graph Foundation Model*
-4. Graph Transformer Networks
-5. A Generalization of Transformer Networks to Graphs
+4. [Graph Transformer Networks](https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf)
+5. [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699)
 
 *Kolmogorov-Arnold Theorem*
 
-6. LECTURE DELIVERED BEFORE THE INTERNATIONAL CONGRESS OF MATHEMATICIANS AT PARIS IN 1900
+6. [LECTURE DELIVERED BEFORE THE INTERNATIONAL CONGRESS OF MATHEMATICIANS AT PARIS IN 1900](https://www.ams.org/journals/bull/1902-08-10/S0002-9904-1902-00923-3/S0002-9904-1902-00923-3.pdf)
 7. [KAN: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 
 ## Author
