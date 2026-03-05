@@ -10,6 +10,15 @@ This poster presents a foundation-model approach for learning on discrete fractu
 
 <img width="2560" height="1440" alt="Screenshot 2026-03-02 at 3 13 07 PM" src="https://github.com/user-attachments/assets/ac1bcc42-cf5b-4442-b22b-7a29b90b84cc" />
 
+### Why KASTL Neural Layer
+KASTL is Kolomogorov-Arnold Superposition Theorem Layer that is inspired by the Kolomogorv-Arnold Superposition Theorem for approximation.
+
+<img width="2560" height="1440" alt="Screenshot 2026-03-02 at 3 04 31 PM" src="https://github.com/user-attachments/assets/680f03a3-1c68-4bbe-a212-511fa664656a" />
+
+### Graph Foundation Model Parameter 
+
+<img width="2560" height="1440" alt="Screenshot 2026-03-02 at 3 17 11 PM" src="https://github.com/user-attachments/assets/c53d8c54-342c-45d9-a3b9-55dc19e96faa" />
+
 ## Summary
 
 The poster highlights:
