@@ -73,15 +73,18 @@ This material is shared for reviewers, collaborators, and researchers interested
 4. applied AI for structured scientific data
 
 ## Recommended Readings
-*For DFN:*
+*DFN*
 1. Transient flow modeling in fractured media using graphs
 2. Machine learning for graph-based representations of three-dimensional discrete fracture networks
+
 *For Graph Foundation Model*
-3. Graph Transformer Networks
-4. A Generalization of Transformer Networks to Graphs
+4. Graph Transformer Networks
+5. A Generalization of Transformer Networks to Graphs
+
 *Kolmogorov-Arnold Theorem*
-5. LECTURE DELIVERED BEFORE THE INTERNATIONAL CONGRESS OF MATHEMATICIANS AT PARIS IN 1900
-6. KAN: Kolmogorov-Arnold Networks
+
+6. LECTURE DELIVERED BEFORE THE INTERNATIONAL CONGRESS OF MATHEMATICIANS AT PARIS IN 1900
+7. KAN: Kolmogorov-Arnold Networks
 
 ## Author
 
