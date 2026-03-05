@@ -110,5 +110,9 @@ This material is shared for reviewers, collaborators, and researchers interested
 
 Himanshu Singh (GitHub: https://github.com/himanshuvnm)
 
+<div align="center">
 
+### Scientific AI • Structured Learning • Graph Foundation Models
+
+</div>
 
