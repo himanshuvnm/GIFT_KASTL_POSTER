@@ -98,6 +98,7 @@ This material is shared for reviewers, collaborators, and researchers interested
 2. [Machine learning for graph-based representations of three-dimensional discrete fracture networks](https://link.springer.com/article/10.1007/s10596-018-9720-1)
 
 *For Graph Foundation Model*
+
 4. [Graph Transformer Networks](https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf)
 5. [A Generalization of Transformer Networks to Graphs](https://arxiv.org/pdf/2012.09699)
 
