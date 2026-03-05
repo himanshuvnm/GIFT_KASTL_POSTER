@@ -43,7 +43,7 @@ The **GIFT-KASTL framework** investigates how **graph-based machine learning arc
 *(add preview image here)*
 
 <p align="center">
-<img src="GIFT-KASTL_SciFM_POSTER.pdf" width="800">
+<img src="preview.png" width="800">
 </p>
 
 ---
