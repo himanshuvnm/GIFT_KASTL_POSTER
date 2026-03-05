@@ -1,0 +1,10 @@
+@inproceedings{Singh2025Advancing,
+    author = {Singh, Himanshu and Panda, Nishant and Oyen, Diane Adele and Biswas, Ayan},
+    title = {ADVANCING GRAPH REPRESENTATION LEARNING FOR SCIENTIFIC FRACTURE PHYSICS GRAPHICAL DATA},
+    booktitle = {SCIENTIFIC DISCOVERY IN THE AGE OF AI},
+    address = {University of Michigan, Ann Arbor, Michigan, UNITED STATES},
+    year = {2025},
+    month = {May},
+    note = {Los Alamos National Laboratory Report LA-UR-25-23581},
+    institution = {Los Alamos National Laboratory}
+} 
