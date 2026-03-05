@@ -1,6 +1,6 @@
 <div align="center">
 
-# GIFT-KASTL
+# 2025 SciFM Research Poster GIFT-KASTL 
 ### Graph Foundation Models for Fracture Network Learning
 
 Scientific Machine Learning • Graph AI • Foundation Models
