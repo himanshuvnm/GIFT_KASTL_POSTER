@@ -9,6 +9,7 @@ Scientific Machine Learning • Graph AI • Foundation Models
 [![Scientific ML](https://img.shields.io/badge/domain-scientific--machine--learning-purple)]()
 [![Graph AI](https://img.shields.io/badge/method-graph--learning-green)]()
 [![License](https://img.shields.io/badge/License-CC--BY--4.0-6b7280?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)]()
 
 </div>
 
