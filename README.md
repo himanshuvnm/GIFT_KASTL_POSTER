@@ -8,7 +8,7 @@ Scientific Machine Learning • Graph AI • Foundation Models
 [![Research Poster](https://img.shields.io/badge/type-research--poster-blue)]()
 [![Scientific ML](https://img.shields.io/badge/domain-scientific--machine--learning-purple)]()
 [![Graph AI](https://img.shields.io/badge/method-graph--learning-green)]()
-[![License](https://img.shields.io/badge/license-MIT-license-lightgrey)]()
+[![License](https://img.shields.io/badge/License-CC--BY--4.0-6b7280?style=for-the-badge)]()
 
 </div>
 
